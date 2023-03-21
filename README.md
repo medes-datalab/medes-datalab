@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hola esta es una prueba
+
+``` mermaid
+graph LR
+    A[Prueba 001] --> B[Prueba 002]
+    B -- Yes --> C[Prueba 3]
+    B -- No --> A
+    C -- Si --> D[Prueba 004]
+    D --> A
+    B --> D
+```
